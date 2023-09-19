@@ -26,6 +26,10 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 src/main/resources/application.properties
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
