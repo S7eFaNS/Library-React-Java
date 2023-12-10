@@ -37,6 +37,7 @@ export const SearchBooksPage = () => {
                         img : responseData[key].img,
                     });
                 }
+                
                 setBooks(loadedBooks);
                 setIsLoading(false);
             };
